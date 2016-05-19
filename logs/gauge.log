@@ -1,0 +1,110 @@
+09:37:03.874  create  manifest.json
+09:37:03.884  create  specs
+09:37:03.885  create  specs/example.spec
+09:37:03.887  create  env
+09:37:03.888  create  env/default
+09:37:03.889  create  env/default/default.properties
+09:37:17.372 Successfully initialized the project. Run specifications with "gauge specs/"
+09:37:22.284 # Specification Heading
+09:37:22.364 ## Vowel counts in single word
+09:37:22.404 * Vowels in English language are "aeiou".
+09:37:22.525 * The word "gauge" has "3" vowels.
+09:37:22.724 ## Vowel counts in multiple word
+09:37:22.764 * Vowels in English language are "aeiou".
+09:37:22.884 * Almost all words have vowels 
+     |Word  |Vowel Count|
+     |------|-----------|
+     |Gauge |3          |
+     |Mingle|2          |
+     |Snap  |1          |
+     |GoCD  |1          |
+     |Rhythm|0          |
+09:37:22.886 Checking updates...
+09:37:23.386 Plugin [Html Report] with pid [14371] has exited
+09:37:23.386 Specifications:	1 executed	1 passed	0 failed	0 skipped
+09:37:23.386 Scenarios:	2 executed	2 passed	0 failed	0 skipped
+09:37:23.386 
+Total time taken: 928ms
+09:55:32.345 # Specification Heading
+09:55:32.424 ## Vowel counts in single word
+09:55:32.464 * Vowels in English language are "aeiou".
+09:55:32.584 * The word "gauge" has "3" vowels.
+09:55:32.784 ## Vowel counts in multiple word
+09:55:32.824 * Vowels in English language are "aeiou".
+09:55:32.913 Checking updates...
+09:55:32.945 * Almost all words have vowels 
+     |Word  |Vowel Count|
+     |------|-----------|
+     |Gauge |3          |
+     |Mingle|2          |
+     |Snap  |1          |
+     |GoCD  |1          |
+     |Rhythm|0          |
+09:55:33.245 Plugin [Html Report] with pid [14436] has exited
+09:55:33.245 Specifications:	1 executed	1 passed	0 failed	0 skipped
+09:55:33.245 Scenarios:	2 executed	2 passed	0 failed	0 skipped
+09:55:33.245 
+Total time taken: 930ms
+10:03:57.258 Checking updates...
+10:04:25.998 Runner connection error: Timed out connecting to [::]:46026
+10:04:25.999 Error while killing runner: os: process already finished
+10:04:25.999 Failed to start gauge API: Timed out connecting to [::]:46026
+10:04:40.266 Checking updates...
+10:05:50.076 # Specification Heading
+10:05:50.156 ## Vowel counts in single word
+10:05:50.196 * Vowels in English language are "aeiou".
+10:05:50.316 * The word "gauge" has "3" vowels.
+10:05:50.516 ## Vowel counts in multiple word
+10:05:50.556 * Vowels in English language are "aeiou".
+10:05:50.587 Checking updates...
+10:05:50.676 * Almost all words have vowels 
+     |Word  |Vowel Count|
+     |------|-----------|
+     |Gauge |3          |
+     |Mingle|2          |
+     |Snap  |1          |
+     |GoCD  |1          |
+     |Rhythm|0          |
+10:05:50.977 Plugin [Html Report] with pid [15188] has exited
+10:05:50.977 Specifications:	1 executed	1 passed	0 failed	0 skipped
+10:05:50.978 Scenarios:	2 executed	2 passed	0 failed	0 skipped
+10:05:50.978 
+Total time taken: 928ms
+10:18:14.809 # Specification Heading
+10:18:14.888 ## Vowel counts in single word
+10:18:14.928 * Vowels in English language are "aeiou".
+10:18:15.048 * The word "gauge" has "3" vowels.
+10:18:15.248 ## Vowel counts in multiple word
+10:18:15.288 * Vowels in English language are "aeiou".
+10:18:15.408 * Almost all words have vowels 
+     |Word  |Vowel Count|
+     |------|-----------|
+     |Gauge |3          |
+     |Mingle|2          |
+     |Snap  |1          |
+     |GoCD  |1          |
+     |Rhythm|0          |
+10:18:15.709 Plugin [Html Report] with pid [15349] has exited
+10:18:15.709 Specifications:	1 executed	1 passed	0 failed	0 skipped
+10:18:15.710 Scenarios:	2 executed	2 passed	0 failed	0 skipped
+10:18:15.710 
+Total time taken: 932ms
+09:49:55.152 # Specification Heading
+09:49:55.232 ## Vowel counts in single word
+09:49:55.272 * Vowels in English language are "aeiou".
+09:49:55.392 * The word "gauge" has "3" vowels.
+09:49:55.592 ## Vowel counts in multiple word
+09:49:55.632 * Vowels in English language are "aeiou".
+09:49:55.752 * Almost all words have vowels 
+     |Word  |Vowel Count|
+     |------|-----------|
+     |Gauge |3          |
+     |Mingle|2          |
+     |Snap  |1          |
+     |GoCD  |1          |
+     |Rhythm|0          |
+09:49:56.053 Plugin [Html Report] with pid [27335] has exited
+09:49:56.053 Specifications:	1 executed	1 passed	0 failed	0 skipped
+09:49:56.053 Scenarios:	2 executed	2 passed	0 failed	0 skipped
+09:49:56.053 
+Total time taken: 940ms
